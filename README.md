@@ -3,11 +3,11 @@
 An Android App where users can search for places by keyword and category and get detail information like photos and reviews.
 It also allows user to collect favourite results and shared them to twitter.
 
-*Base library: Butterknife
+* Base library: Butterknife
 
-*Network layer: Okhttp, Volley
+* Network layer: Okhttp, Volley
 
-*Image Loader: Picasso
+* Image Loader: Picasso
 
 
 
