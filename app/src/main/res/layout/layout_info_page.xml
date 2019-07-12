@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:layout_marginLeft="4dp"
+    >
+
+    <TextView
+        android:layout_margin="@dimen/info_margin"
+        android:textColor="@color/black_80"
+        android:text="Address"/>
+    <TextView
+        android:id="@+id/info_address"
+        android:layout_margin="@dimen/info_margin"
+        android:text="phone number"/>
+    <TextView
+        android:layout_margin="@dimen/info_margin"
+        android:textColor="@color/black_80"
+        android:text="Phone Number"/>
+    <TextView
+        android:id="@+id/info_phone_number"
+        android:textColor="@color/pink"
+        android:layout_margin="@dimen/info_margin"
+        android:autoLink="phone"
+        android:text="233"/>
+    <TextView
+        android:layout_margin="@dimen/info_margin"
+        android:textColor="@color/black_80"
+        android:text="Price Level"/>
+    <TextView
+        android:id="@+id/info_price"
+        android:layout_margin="@dimen/info_margin"
+        android:text="$$"/>
+    <TextView
+        android:layout_margin="@dimen/info_margin"
+        android:textColor="@color/black_80"
+        android:text="Rating"/>
+    <RatingBar
+        android:id="@+id/rating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/info_margin"
+        style="?android:attr/ratingBarStyleSmall"
+        android:numStars="5"
+        android:stepSize="0.1"
+        android:isIndicator="true" />
+    <TextView
+        android:layout_margin="@dimen/info_margin"
+        android:textColor="@color/black_80"
+        android:text="Google Page"/>
+    <TextView
+        android:id="@+id/info_google_page"
+        android:textColor="@color/pink"
+        android:clickable="true"
+        android:autoLink="web"
+        android:layout_margin="@dimen/info_margin"
+        android:text=""/>
+    <TextView
+        android:layout_margin="@dimen/info_margin"
+        android:textColor="@color/black_80"
+        android:text="Website"/>
+    <TextView
+        android:id="@+id/info_website"
+        android:textColor="@color/pink"
+        android:clickable="true"
+        android:autoLink="web"
+        android:layout_margin="@dimen/info_margin"
+        android:text=""/>
+
+
+
+</GridLayout>

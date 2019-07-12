@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tab_layout_height">48dp</dimen>
+    <dimen name="tab_icon_padding">6dp</dimen>
+    <dimen name="tab_text_left_margin">3dp</dimen>
+    <dimen name="tab_text_size">14sp</dimen>
+    <dimen name="search_layout_margin">10dp</dimen>
+
+    <dimen name="list_result_height">24dp</dimen>
+    <dimen name="info_margin">12dp</dimen>
+
+</resources>
