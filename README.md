@@ -15,8 +15,11 @@ It also allows user to collect favourite results and shared them to twitter.
 
 
 <img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528430022.png"></img>
-<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/new/master/image/page_news.jpg"></img>
-<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/new/master/image/page_news_list.jpg"></img>
-<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/new/master/image/page_channel.jpg"></img>
-<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/new/master/image/page_nav_bar.jpg"></img>
-<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/new/master/image/page_meizi.jpg"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528432549.png"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528432556.png"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528432604.png"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528432610.png"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528432771.png"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528433249.png"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528433398.png"></img>
+<img width="30%"  src="https://github.com/philipli1995/TravelAndEntertainmentSearch/blob/master/image/Screenshot_1528435242.png"></img>
